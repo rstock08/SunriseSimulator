@@ -16,4 +16,5 @@ Create a IoT device/network that communicates with an application which can be i
      - Android Studio
      - Java
 <br><br>
+
 For more information feel free to email me at ReedStock1992@gmail.com or check out the documents folder for more information on the project.
